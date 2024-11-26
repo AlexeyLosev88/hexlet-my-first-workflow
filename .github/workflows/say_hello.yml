@@ -1,5 +1,5 @@
-# file: .github/workflows/show-say_hello.yml
-name: show-say_hello
+# file: .github/workflows/say_hello.yml
+name: say_hello
 # on – определяет события, которые запускают воркфлоу
 on: push
 jobs:
